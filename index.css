@@ -1,0 +1,13 @@
+/*
+        <span class="minutes"></span>
+        <span class="seconds"></span>
+        <span class="milliseconds"></span>
+        */
+
+.minutes {
+    font-size: 40;
+}
+
+.seconds {
+    font-size: 20;
+}
